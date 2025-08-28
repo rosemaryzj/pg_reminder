@@ -1,16 +1,12 @@
 # remind
 
-A new Flutter project.
+```shell
+一个项目->模块，中间件和待办以及BUG和进度的管理软件
+支持项目进度统计，团队成员负荷统计等指标
+```
 
-## Getting Started
+### 项目概览
+![项目概览](images/module.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 模块信息
+![模块信息](images/module.jpg)
